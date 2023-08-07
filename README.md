@@ -1,1 +1,2 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+# Santiago Restrepo-Garcia Portfolio
+Source code of my personal [portfolio](https://santiagorg2401.github.io/). I stole the original code from generous [Jon Barron](https://jonbarron.info/), so feel free to also steal this from me if needed.
